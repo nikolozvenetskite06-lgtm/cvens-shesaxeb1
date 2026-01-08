@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: gray;
+  background-color: black
 }
 
 
@@ -37,6 +37,7 @@ nav > a {
     color: white;
     font-weight: bold;
 }
+
 .site-brand {
     color: white;
     font-weight: 800px;
@@ -94,7 +95,7 @@ nav > a {
 .text p {
     margin-bottom: 15px;
     color: white
-    line-height: 1.6;
+    
 }
 
 
